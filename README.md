@@ -3,7 +3,7 @@ Games of Thrones
 
 Here is toy leader election for Erlang. It is started as
 an solution for Echo interview program. Simple Leader Election
-protocol description close to original task:
+protocol description close to original task http://www.echorussia.ru/jobs/serverside-june-2013.html
 
 Leader Election with Crash Detection
 ------------------------------------
