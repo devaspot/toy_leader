@@ -5,8 +5,8 @@ Here is toy leader election for Erlang. It is started as
 an solution for Echo interview program. Simple Leader Election
 protocol description close to original task:
 
-Leader Election in Distributed Systems with Crash failure
----------------------------------------------------------
+Leader Election with Crash Detection
+------------------------------------
 
 When a process is started, it first checks whether a process with
 higher priority is active. If such a process exist, the process
