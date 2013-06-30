@@ -30,7 +30,7 @@ Compilation
 
 You need just Erlang. Do in working directory:
 
-    $ ercl king.erl
+    $ erlс king.erl
 
 How to use
 ----------
